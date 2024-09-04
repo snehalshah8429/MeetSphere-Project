@@ -35,4 +35,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-Check out [Next.js deployment documentation](https://meet-sphere-project.vercel.app/) for live website.
+Check out [MeetSphere](https://meet-sphere-project.vercel.app/) for live website.
